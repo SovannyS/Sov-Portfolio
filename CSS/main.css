@@ -1,0 +1,10 @@
+/* Global rules */
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Vollkorn+SC');
+
+html {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.95em;
+    line-height: 1.5em;
+    background-color: aliceblue;
+    background-repeat: repeat;
