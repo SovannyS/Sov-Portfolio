@@ -1,4 +1,4 @@
-
+/*************** Target selectors**************/
 @import url('https://fonts.googleapis.com/css?family=Quicksand|Vollkorn+SC');
 
 html {
@@ -11,4 +11,16 @@ html {
 
     body {
         background-color:rgba(209, 216, 251, 0.9); /* opacity 30% */   }
+
    
+/***************CLASS SELECTORS****************/
+ .project {
+    font-size: 140%; 
+}
+.contact {
+    font-size: 140%; }
+.links{
+    font-size: 140%; 
+}
+    
+
